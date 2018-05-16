@@ -14,7 +14,7 @@
 * /preinst2
 * /dev (sometimes works)
 * Someothers i might have forgot
-3.Optimized for use with a HEN (No Freezing!)
+* Optimized for use with a HEN (No Freezing!)
 
 
 Credits 
